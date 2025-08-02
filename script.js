@@ -10,7 +10,7 @@ const techStacks = [
   "Database Designer",
   // "UI/UX Designer",
   "API Developer",
-  "Full-Stack Developer",
+  "AI Enthusiast",
   "Frontend Developer"
 ];
 
