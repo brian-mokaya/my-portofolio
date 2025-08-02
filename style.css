@@ -423,6 +423,15 @@ article .icon {
   cursor: default;
 }
 
+.bw-filter {
+  filter: grayscale(100%);
+  transition: filter 0.1s ease;
+}
+
+.bw-filter:hover {
+   filter: grayscale(0%);
+}
+
 .email-icon {
   height: 2.5rem;
 }
