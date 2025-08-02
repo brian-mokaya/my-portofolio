@@ -37,4 +37,10 @@ To run the website locally:
 
 2. Navigate into the project directory:
       ```bash
-   git clone https://github.com/brian-mokaya/my-portfolio.git
+   cd my-portfolio
+3. Open index.html in your browser to view the website.
+
+No build steps required — it's a static site!
+
+
+
