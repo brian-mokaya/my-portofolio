@@ -39,8 +39,7 @@ To run the website locally:
       ```bash
    cd my-portfolio
 3. Open index.html in your browser to view the website.
-
-No build steps required — it's a static site!
+   No build steps required — it's a static site!
 
 
 
