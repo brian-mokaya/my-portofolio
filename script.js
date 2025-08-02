@@ -8,7 +8,7 @@ function toggleMenu() {
 const techStacks = [
   "Backend Developer",
   "Database Designer",
-  "UI/UX Designer",
+  // "UI/UX Designer",
   "API Developer",
   "Full-Stack Developer",
   "Frontend Developer"
